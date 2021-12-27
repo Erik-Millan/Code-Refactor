@@ -4,7 +4,7 @@
 ### Make the webpage accessible and optimized
 
 
-![](assets/images/_D__Coding_GitHub_Code-Refactor_index.html.png)
+![](assets/images/Screenshot.png)
 
 
 ### Links
